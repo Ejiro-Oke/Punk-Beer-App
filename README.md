@@ -7,4 +7,4 @@ The user is able to select the kind of beer they need using ABV and IBU as filte
 * Switch statements
 * Custom functions.
 
-Check it out [here](https://punk-beer-app-in-course-scrimba-project.vercel.app/)
+Check it out [here](https://punk-beer-app-by-ejiro.vercel.app/).
